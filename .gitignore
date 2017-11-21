@@ -3,3 +3,6 @@
 
 # backups
 *~
+
+# Cleanup sripts
+clean*
